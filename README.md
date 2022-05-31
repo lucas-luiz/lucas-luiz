@@ -8,6 +8,6 @@
   
 <br>
 <div width=100% display="inline-block">
-<img height=200  src="https://github-readme-stats.vercel.app/api?username=lucas-luiz&show_icons=true&locale=en&theme=dracula" alt="lucas-luiz" />
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-luiz&show_icons=true&locale=en&theme=dracula" alt="lucas-luiz" />
+<img height=200  src="https://github-readme-stats.vercel.app/api?username=lucas-luiz&show_icons=true&locale=en&theme=dracula&count_private=true" alt="lucas-luiz" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-luiz&show_icons=true&locale=en&theme=dracula&hide=scss" alt="lucas-luiz" />
 </div>  
