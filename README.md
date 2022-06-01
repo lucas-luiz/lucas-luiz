@@ -1,5 +1,3 @@
-
-<h1>Hey! 👋</h1> <br>
 <div>
 <a href="mailto://lucas.ldsilva10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="linkedin.com/in/lucas-luiz-da-silva-53112b1bb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
