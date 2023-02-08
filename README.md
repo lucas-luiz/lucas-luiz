@@ -5,9 +5,9 @@
 </div>
 <br><br><br>
 <div>
- <a href="https://app.daily.dev/usca"><img src="https://api.daily.dev/devcards/8fce0e8b6f4e4531887df8086c2091a6.png?r=pvx" width="300" alt="Lucas Luiz da Silva's Dev Card"/></a>
- <img height=190  src="https://github-readme-stats.vercel.app/api?username=lucas-luiz&show_icons=true&locale=en&theme=dracula&count_private=true" alt="lucas-luiz" />
- <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-luiz&show_icons=true&locale=en&theme=dracula&hide=scss" alt="lucas-luiz" />
+ <a href="https://app.daily.dev/usca"><img src="https://api.daily.dev/devcards/8fce0e8b6f4e4531887df8086c2091a6.png?r=pvx" width="280" alt="Lucas Luiz da Silva's Dev Card"/></a>
+ <img height=170  src="https://github-readme-stats.vercel.app/api?username=lucas-luiz&show_icons=true&locale=en&theme=dracula&count_private=true" alt="lucas-luiz" />
+ <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-luiz&show_icons=true&locale=en&theme=dracula&hide=scss" alt="lucas-luiz" />
 
 </div>
   
