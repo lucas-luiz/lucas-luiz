@@ -4,7 +4,7 @@
  <a href="https://www.instagram.com/lusca_luiz_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
 <br>
-<div>
+<div display="flex">
  <a href="https://app.daily.dev/usca"><img src="https://api.daily.dev/devcards/8fce0e8b6f4e4531887df8086c2091a6.png?r=pvx" width="280" alt="Lucas Luiz da Silva's Dev Card"/></a>
  <div>
  
